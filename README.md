@@ -5,7 +5,9 @@ Grunt multi-task that removes specified files.
 
 ## Installation
 
-  npm install grunt-rm
+```
+npm install grunt-rm
+```
 
 For more information see grunt.js documentation:
 https://github.com/cowboy/grunt/blob/master/docs/toc.md
