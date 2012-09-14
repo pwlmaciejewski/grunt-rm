@@ -13,5 +13,5 @@
   "engines": {
     "node": "*"
   },
-  "keywords": [ 'grunt', 'remove', 'rm', 'delete', 'gruntplugin']
+  "keywords": ["grunt", "remove", "rm", "delete", "gruntplugin"]
 }
