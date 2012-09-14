@@ -2,7 +2,7 @@
   "author": "Paweł Maciejewski <fragphace@gmail.com> (http://fragphace.pl)",
   "name": "grunt-rm",
   "description": "Grunt task that removes specified files",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/fragphace/grunt-rm.git"
@@ -12,5 +12,6 @@
   "optionalDependencies": {},
   "engines": {
     "node": "*"
-  }
+  },
+  "keywords": [ 'grunt', 'remove', 'rm', 'delete', 'gruntplugin']
 }
