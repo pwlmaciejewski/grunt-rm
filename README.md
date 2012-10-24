@@ -21,6 +21,9 @@ rm: {
   bar: [
     'css/reset.css',
     'css/style.css'
-  ]
+  ],
+  someDir: {
+  	dir: 'css/images/'
+  }
 }
 ```
