@@ -1,4 +1,3 @@
-[![build status](https://secure.travis-ci.org/fragphace/grunt-rm.png)](http://travis-ci.org/fragphace/grunt-rm)
 grunt-rm
 ========
 
@@ -27,3 +26,9 @@ rm: {
   }
 }
 ```
+
+## Release notes
+
+#### 0.0.3
+
+* Removing directories (thanks to [Ricardo Bin](https://github.com/ricardohbin))
