@@ -1,7 +1,7 @@
 grunt-rm
 ========
 
-Grunt multi-task that removes specified files.
+Grunt multi-task that removes specified files and directories.
 
 ## Installation
 
@@ -28,6 +28,10 @@ rm: {
 ```
 
 ## Release notes
+
+#### 0.0.4
+
+* Change to fs.existsSync with backwards compatibility (thanks to [pcottle](https://github.com/pcottle))
 
 #### 0.0.3
 
