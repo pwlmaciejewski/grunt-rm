@@ -1,7 +1,11 @@
-grunt-rm
+grunt-rm (no longer maintained)
 ========
 
 Grunt multi-task that removes specified files and directories.
+
+## No longer maintained
+
+Use https://github.com/gruntjs/grunt-contrib-clean instead.
 
 ## Installation
 
